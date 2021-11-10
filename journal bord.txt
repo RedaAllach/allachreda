@@ -1,0 +1,8 @@
+touch file=pour creer une file
+git add=pour ajouter le fichier
+git status=pour voir l etat de fichier
+git init=pour initialized le historique 
+git push origin main=pour envoyer le fichier a github
+git commit -m "name"=pour validez le fichier 
+git clone=pour clone le repo avec git 
+
