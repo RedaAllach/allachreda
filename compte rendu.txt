@@ -5,3 +5,6 @@ le pemier jour dans youcode,nous connaissons mes colectives et nous faisons un p
 le 9/11/21
 
 Today we see what is git and github,what the differnt beetwen them,also we had tutorial about wotking in git and github 
+
+Le 10/11/21
+aujourd'hui nous voyons le langage c et nous apprenons ce qu'est le langage c et ce que nous pouvons faire avec lui, aussi qui l'a créé et nous faisons une petite présentation sur le langage c et nous commençons à faire le défi de la pratique. 
