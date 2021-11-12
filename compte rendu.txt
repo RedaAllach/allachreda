@@ -12,3 +12,6 @@ aujourd'hui nous voyons le langage c et nous apprenons ce qu'est le langage c et
 11/11/21
 nous avons continué à travailler les défis et nous avons eu un codage en direct entre notre équipe dans discord et je sais ce qu'est printf et scanf j'ai appris un peu plus sur le langage c 
 Je me sens différent, pas comme la première fois 
+
+12/11/21
+nous travaillons dans un autre challenge pour le langage c challenge conditions et nous voyons ce que cela signifie f et else et comment pouvons-nous travailler avec eux. 
