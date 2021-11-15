@@ -1,8 +1,21 @@
-touch file=pour creer une file
-git add=pour ajouter le fichier
-git status=pour voir l etat de fichier
-git init=pour initialized le historique 
-git push origin main=pour envoyer le fichier a github
-git commit -m "name"=pour validez le fichier 
-git clone=pour clone le repo avec git 
+le 8/11/21
+
+le pemier jour dans youcode,nous connaissons mes colectives et nous faisons un presentation,et nous apprenons a controler notre stress,ansi nous prenons une idee de youcode,nous apprendrons ce que nous verrons dans cette periode
+
+le 9/11/21
+
+Today we see what is git and github,what the differnt beetwen them,also we had tutorial about wotking in git and github 
+
+Le 10/11/21
+aujourd'hui nous voyons le langage c et nous apprenons ce qu'est le langage c et ce que nous pouvons faire avec lui, aussi qui l'a créé et nous faisons une petite présentation sur le langage c et nous commençons à faire le défi de la pratique. 
+
+11/11/21
+nous avons continué à travailler les défis et nous avons eu un codage en direct entre notre équipe dans discord et je sais ce qu'est printf et scanf j'ai appris un peu plus sur le langage c 
+Je me sens différent, pas comme la première fois 
+
+12/11/21
+nous travaillons dans un autre challenge pour le langage c challenge conditions et nous voyons ce que cela signifie f et else et comment pouvons-nous travailler avec eux. 
+15/11/21
+le premier jour du deuxième semaine ,nous avons l'événement webinaire de Frediric le président de simplon il fait une présentation sur la transformation numérique. et après la pause nous avons continué à travailler sur les défis de la langue c les conditions après nous avons eu un quizz j'ai trouvé ce qui me manque encore dans les conditions et je vais chercher à apprendre et à comprendre davantage 
+si j'ai un entretien ou une situation réelle, je trouverai le problème et le réparerai. 
 
