@@ -19,3 +19,8 @@ nous travaillons dans un autre challenge pour le langage c challenge conditions 
 le premier jour du deuxième semaine ,nous avons l'événement webinaire de Frediric le président de simplon il fait une présentation sur la transformation numérique. et après la pause nous avons continué à travailler sur les défis de la langue c les conditions après nous avons eu un quizz j'ai trouvé ce qui me manque encore dans les conditions et je vais chercher à apprendre et à comprendre davantage 
 si j'ai un entretien ou une situation réelle, je trouverai le problème et le réparerai. 
 
+16/11/21
+La première chose que nous avons fait est le codage en direct, je connais plus d'informations et j'en apprends plus et je connais l'importance du codage en direct, nous voyons comment nous pouvons résoudre le problème après cela, les brogramers Squad font une présentation de l'algorithme, l'histoire de l'algorithme et comment nous pouvons travailler avec des algorithmes comme la recherche binaire et la recherche linéaire et la notion de grand o si je veux chercher quelque chose, comment j'utilise la notion de grand o et pourquoi j'utilise la notion de grand o aussi comment je peux écrire un algorithme.
+
+
+
