@@ -22,5 +22,8 @@ si j'ai un entretien ou une situation réelle, je trouverai le problème et le r
 16/11/21
 La première chose que nous avons fait est le codage en direct, je connais plus d'informations et j'en apprends plus et je connais l'importance du codage en direct, nous voyons comment nous pouvons résoudre le problème après cela, les brogramers Squad font une présentation de l'algorithme, l'histoire de l'algorithme et comment nous pouvons travailler avec des algorithmes comme la recherche binaire et la recherche linéaire et la notion de grand o si je veux chercher quelque chose, comment j'utilise la notion de grand o et pourquoi j'utilise la notion de grand o aussi comment je peux écrire un algorithme.
 
+17/11/21
+today we have new challenges about boucles ,and what mean boucle ,and how we can use it and why we will use it ,also i work with condition into condition ,and boucle into boucle after that we see a little more about algorithme like if i have problem ,first i should find what is the problem and where is the problem also i understand how i can write with algorithme.
+
 
 
