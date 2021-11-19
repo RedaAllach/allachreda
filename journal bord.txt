@@ -25,5 +25,8 @@ La première chose que nous avons fait est le codage en direct, je connais plus 
 17/11/21
 today we have new challenges about boucles ,and what mean boucle ,and how we can use it and why we will use it ,also i work with condition into condition ,and boucle into boucle after that we see a little more about algorithme like if i have problem ,first i should find what is the problem and where is the problem also i understand how i can write with algorithme.
 
+19/11/21
+j'ai continué mes défis sur les fonctions et les boucles après cela nous avons un codage en direct avec abdsamad dans le défi deux pyramide honnêtement je ne comprends pas encore les derniers défis tri rapide aussi notre formateur nous envoyer le projet bref final sas sur l'application gestion bancaire Nous devrions faire tout ce que nous apprenons dans ces deux semaine comme les fonctions et les boucles et les conditions.
+
 
 
