@@ -31,3 +31,6 @@ j'ai continué mes défis sur les fonctions et les boucles après cela nous avon
 22/11/21
 j'ai continué à travailler sur le projet, j'ai compris ce que je devais faire, et mon collecteur a fait une présentation de la structure et des fichiers, de leur fonctionnement et de leur signification. Après cela, nous avons eu un petit entretien avec notre nouveau formatrisse et j'ai découvert que j'avais un petit problème avec le spesficateur %d en float.
 
+23/11/21 ET 24/11/21
+Je travaille toujours sur le projet, j'ai trouvé la méthode pour travailler rapidement sur le projet.
+Je suis dans la dernière ligne droite pour finir le projet demain, nous avons la soutnance et je reviendrai sur tout ce que nous avons fait dans ce trois wekeend pour comprendre.
