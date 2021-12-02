@@ -43,4 +43,11 @@ nous voyons aujourd'hui ce qu'est le web et la différence entre le web et inter
 nous voyons aussi les compétences ou la pile complète de l'année et nous les dessinons sur papier comme un schéma.
 Et nous voyons les projets ou les mémoires. Nous ferons ce que nous commençons demain. 
 
+02/12/21
+j'ai continué à travailler dans le projet pour créer un site web avec html et css aussi je vois quelques tutoriels pour html pour comprendre et savoir ce qu'est html et ce que je peux faire avec.
+Je connais les balises du html comme body, head, html, title.
+Après cela, nous avons eu un quiz sur ce que nous avons vu hier, le web et l'internet et la différence entre les deux, mais nous avons eu un quiz en mode équipe, mon équipe était la première.
+Nous avons aussi vu le deuxième briefing et j'ai pris l'argent pour le premier mois.
+
+
 
