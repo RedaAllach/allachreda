@@ -69,4 +69,10 @@ nous avons eu deux briefings le premier sur la maquette le formateur nous donne 
 le second sur l'intégration d'une page d'accueil, d'inscription et de connexion pour les invitations mais en mode squad nous devons faire une table scrum c'est à dire comme un plan de travail
 chacun prendra une tache pour travailler rapidement et efficacement 
 
+14/12/21
+nous avons commencé à travailler au briefing six nous faisons un scrum table pour ce que nous allons faire et chacun a une tâche comme un maquettage et le codage 
+C'est le premier briefing pour le travail d'équipe. Nous avons aussi vu un peu le flux de github et comment nous travaillons avec lui. 
+dans la vie réelle nous devrions utiliser le travail d'équipe pour vivre bien et apprendre beaucoup de compétences aussi à la société nous apprendre comment travailler avec quelqu'un sans le connaître.
+
+
 
