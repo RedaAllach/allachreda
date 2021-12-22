@@ -82,3 +82,7 @@ j'ai compris les étapes et ce que nous devons faire si nous voulons travailler 
 17/12/21
 nous avons continué à travailler sur le briefing et le worflow reste juste la fination pour finaliser les projets nous avons un petit problème mais nous gérons tout cela 
 nous nous aidons l'un l'autre pour terminer à temps l'un de nous travaille dans une partie et au final nous travaillons avec github flow
+
+22/12/21
+nous avons un test sur le dernier projet en mode squad nous expliquons comment nous travaillons les uns avec les autres avec le travail et chacun explique son code. 
+nous avons un peu de problèmes avec la réactivité mais nous comprenons où sont les problèmes et nous allons y travailler.
